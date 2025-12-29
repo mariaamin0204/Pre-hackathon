@@ -1,0 +1,10 @@
+.hero img,.hero .content h1, .hero .content p,.hero .content,.about img,.about .content h1, .about .content p,.about .content{
+    width:90% !important;
+}
+.portfolio .images{
+    flex-direction: column;
+}
+@media(max-width:530px){
+.logo img{
+    width: 100% !important;
+}}
